@@ -1,0 +1,26 @@
+{
+    "name": "rusadrako/tools",
+    "version": "0.1.0",
+    "description": "Инструменты",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Petukhov Leonid",
+            "email": "rusadrako@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "elbrus/framework": ">=0.3.5",
+        "rusadrako/router": "^0.4.0",
+        "rusadrako/driver_db": ">=2.0.0",
+        "rusadrako/model_obj": "0.3.1",
+        "rusadrako/db_update": "^0.1.0",
+        "rusadrako/api": ">=3.2",
+        "rusadrako/debug": "^0.3.3",
+        "rusadrako/telegram_notification": "^1.3",
+        "rusadrako/templater": "^0.1.1",
+        "rusadrako/log": "^1.0"
+    },
+    "minimum-stability": "alpha"
+}
